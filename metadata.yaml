@@ -1,0 +1,47 @@
+_repo: Jules-Bastien-Lepage-and-his-art-a-memoir_71623
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Blind, Mathilde
+    birthdate: 1841
+    deathdate: 1896
+    gutenberg_agent_id: '38517'
+    url: http://www.gutenberg.org/2009/agents/38517
+    wikipedia: http://en.wikipedia.org/wiki/Mathilde_Blind
+  - agent_name: Clausen, George
+    gutenberg_agent_id: '56306'
+    url: http://www.gutenberg.org/2009/agents/56306
+  - agent_name: Sickert, Walter
+    gutenberg_agent_id: '56307'
+    url: http://www.gutenberg.org/2009/agents/56307
+  - agent_name: Theuriet, André
+    aliases:
+    - Theuriet, Andre
+    - Theuriet, Claude Adhémar André
+    birthdate: 1833
+    deathdate: 1907
+    gutenberg_agent_id: '1340'
+    url: http://www.gutenberg.org/2009/agents/1340
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Andr%C3%A9_Theuriet
+    - https://fr.wikipedia.org/wiki/Andr%C3%A9_Theuriet
+description: ''
+gutenberg_issued: '2023-09-12'
+identifiers:
+  gutenberg: '71623'
+language: en
+pgterms:marc904: https://archive.org/details/julesbastienlepa00theu/page/n9/mode/2up
+pgterms:marc905: 20210904072500theuriet
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+production_note: Carol Brown, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bT. Fisher Unwin, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Jules Bastien-Lepage and his art: a memoir'
+url: http://www.gutenberg.org/ebooks/71623
